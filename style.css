@@ -1,0 +1,165 @@
+body {
+    background: rgba(250, 250, 250, 1);
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 177.5px;
+    border-bottom: 2px solid rgba(222, 219, 219, 1);
+}
+
+.left_nav {
+    margin-top: 30px;
+}
+
+
+.right_nav {
+    display: flex;
+    align-items: center;
+    gap: 14.83px;
+
+}
+
+.ozb {
+    font-size: 36px;
+}
+
+.mainbox {
+    margin-top: 46px;
+    margin-left: 395px;
+    margin-right: 395px;
+    width: 650px;
+    height: 786px;
+    background-color: rgb(255, 255, 255, 1);
+    border: 1px solid rgb(222, 219, 219, 1);
+    border-radius: 50px;
+}
+
+.Logo_offera {
+    display: flex;
+}
+
+
+.image {
+    margin-top: 66px;
+    margin-left: 65px;
+}
+
+.Offerta {
+    font-size: 24px;
+    color: rgb(240, 64, 15, 1);
+    margin-top: 73px;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+
+.Space {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 56px;
+    color: rgb(14, 13, 93, 1);
+    margin-top: 131px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    width: 533px;
+    height: 70px;
+    background: rgba(245, 245, 245, 1);
+    margin-left: 64px;
+    margin-right: 53px;
+}
+
+.section>p {
+    font-size: 28px;
+}
+
+.oquvchi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    color: black;
+    background-color: rgb(255, 255, 255, 1);
+    width: 255px;
+    height: 54px;    
+}
+
+.ota-ona {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  rgb(117, 117, 117, 1);
+    margin-right: 50px;
+}
+
+
+.input1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 533px;
+    height: 52px;
+    border-radius: 20px;
+    border: 1px solid rgb(117, 117, 117, 0.19);
+    margin-top: 39px;
+    margin-left: 64px;
+    margin-right: 53px;
+}
+
+.input1::placeholder{
+    font-size: 24px;
+    padding-left: 51px;
+
+}
+
+.input2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 540px;
+    height: 52px;
+    border-radius: 20px;
+    border: 1px solid rgb(117, 117, 117, 0.19);
+    margin-top: 39px;
+    margin-left: 64px;
+    margin-right: 53px;
+}
+
+.input2::placeholder{
+    font-size: 24px;
+    padding-left: 51px;
+}
+
+
+
+.QR {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 24px;
+    color: rgb(0, 0, 0, 0.64);
+    margin-top: 18px;
+}
+
+
+.Tick {
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    background-color: rgba(246, 158, 134, 1);
+    border: 0px solid black;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 53px;
+    margin-top: 30px;
+    margin-right: 64px;
+    margin-left: 400px;
+}
